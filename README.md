@@ -1,1 +1,0 @@
-# telecommunication-management-system
